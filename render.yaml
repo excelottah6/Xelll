@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: headless-termux-browser
+    name: xelll
     env: docker
     plan: free
     region: frankfurt
